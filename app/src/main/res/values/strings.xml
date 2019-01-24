@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mister Agen</string>
+    <string name="title_activity_orders">Input Order</string>
+    <string name="title_activity_login_penjual">Login Penjual</string>
+</resources>

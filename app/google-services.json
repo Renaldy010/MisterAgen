@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592043250859",
+    "firebase_url": "https://moneyfinder1-c8c3b.firebaseio.com",
+    "project_id": "moneyfinder1-c8c3b",
+    "storage_bucket": "moneyfinder1-c8c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592043250859:android:b53f94ce42e1aa63",
+        "android_client_info": {
+          "package_name": "com.example.win7.misteragen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592043250859-2tte7te0bubec7a8k1hnn0cj7ccgbspu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.win7.misteragen",
+            "certificate_hash": "f83d72f7bbca26005902363b198ca759cf05514e"
+          }
+        },
+        {
+          "client_id": "592043250859-rdg0uifkcsig9920062l4m4di02bgm71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqphqO-kKns87n0ApRrs9wIU1Mdgh8eFE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592043250859-rdg0uifkcsig9920062l4m4di02bgm71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
